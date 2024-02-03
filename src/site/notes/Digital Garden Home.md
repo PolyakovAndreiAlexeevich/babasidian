@@ -4,3 +4,5 @@
 
 hello gyessssss
 ao
+[[smth\|smth]]
+ayouuuuuuu bruh
