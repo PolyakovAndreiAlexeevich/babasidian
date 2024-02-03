@@ -3,3 +3,4 @@
 ---
 
 hello gyes
+[[Digital Garden Home\|Digital Garden Home]]
