@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/videoprodakshn-media-road-map/"}
 ---
 
+### Цель подписчиков - (YouTube 150к), (Tik-Tok 500к), (Instagram - Twitch 10k)  
 1) Создать ютуб канал, заливать нарезки Shorts и в описании указывать Twitch канал.
 2) Залить на Twitch несколько видео.
 3) Заливать в ТИК-ТОК эти же видео.
