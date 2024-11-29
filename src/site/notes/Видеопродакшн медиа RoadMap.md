@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/videoprodakshn-media-road-map/"}
 ---
+
 ### Цель контента - чтобы зрителям было интересно и смешно смотреть ролики. 
 ### Цель подписчиков - (YouTube 150к), (Tik-Tok 500к), (Instagram - Twitch 10k)  
 1) Создать ютуб канал, заливать нарезки Shorts и в описании указывать Twitch канал.
