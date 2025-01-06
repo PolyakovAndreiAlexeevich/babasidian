@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/skills/"}
 ---
+
 HARD, SOFT, SELF, GROWTH MINDSET
 
 ### Hadr Skills 
