@@ -36,3 +36,6 @@ LTV/CAC = 12000/3000 = 4
 ****
 https://youtu.be/-RIyOrcPgcM?si=LUH8XSMLsyjba44Y
 
+ARPPU (Average, Revenue Per Paying User / per 1 month) — средняя выручка на 1 клиента
+
+MRR (Monthly Recurring Revenue) = повторные платежи + Новые оплаты 
