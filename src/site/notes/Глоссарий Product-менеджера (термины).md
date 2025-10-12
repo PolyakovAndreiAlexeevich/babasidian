@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/glossarij-product-menedzhera-terminy/"}
 ---
+
 - [[A B Тестирование\|A B Тестирование]] 
 - [[Unit-экономика\|Unit-экономика]]
 - **Жизненный цикл продукта (Product Life Cycle)**
@@ -9,7 +10,7 @@ dg-publish: true
     
 - **Дорожная карта (Roadmap)**
     
-- **Пользовательские истории (User Stories)**
+- **Пользовательские истории (User Stories)**  
     
 - **Метрики продукта**:
     
